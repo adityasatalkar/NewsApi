@@ -37,5 +37,7 @@ dependencies {
 
     compile 'com.google.code.gson:gson:2.8.2'
 
+    compile 'de.hdodenhof:circleimageview:2.2.0'
+
     //e522eef50d144c43957cd170a1f5b614
 }
