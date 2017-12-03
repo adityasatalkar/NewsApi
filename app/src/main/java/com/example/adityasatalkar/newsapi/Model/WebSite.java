@@ -14,7 +14,6 @@ public class WebSite {
     private List<Source> sources;
 
     public WebSite() {
-
     }
 
     public WebSite(String status, List<Source> sources) {
@@ -37,4 +36,6 @@ public class WebSite {
     public void setSources(List<Source> sources) {
         this.sources = sources;
     }
+
+
 }

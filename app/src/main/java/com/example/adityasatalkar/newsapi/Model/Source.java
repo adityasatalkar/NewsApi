@@ -47,7 +47,6 @@ public class Source {
     private List<String> sortBysAvailable;
 
     public Source() {
-
     }
 
     public Source(String id, String name, String description, String url, String category, String language, String country, UrlsToLogos urlsToLogos, List<String> sortBysAvailable) {
